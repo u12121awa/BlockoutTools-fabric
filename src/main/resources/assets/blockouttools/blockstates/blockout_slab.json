@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "facing=down,waterlogged=false": {
+      "model": "blockouttools:block/blockout_slab"
+    },
+    "facing=up,waterlogged=false": {
+      "model": "blockouttools:block/blockout_slab_top"
+    },
+    "facing=north,waterlogged=false": {
+      "model": "blockouttools:block/blockout_slab_north"
+    },
+    "facing=south,waterlogged=false": {
+      "model": "blockouttools:block/blockout_slab_north",
+      "y": 180
+    },
+    "facing=west,waterlogged=false": {
+      "model": "blockouttools:block/blockout_slab_north",
+      "y": 270
+    },
+    "facing=east,waterlogged=false": {
+      "model": "blockouttools:block/blockout_slab_north",
+      "y": 90
+    },
+    "facing=down,waterlogged=true": {
+      "model": "blockouttools:block/blockout_slab"
+    },
+    "facing=up,waterlogged=true": {
+      "model": "blockouttools:block/blockout_slab_top"
+    },
+    "facing=north,waterlogged=true": {
+      "model": "blockouttools:block/blockout_slab_north"
+    },
+    "facing=south,waterlogged=true": {
+      "model": "blockouttools:block/blockout_slab_north",
+      "y": 180
+    },
+    "facing=west,waterlogged=true": {
+      "model": "blockouttools:block/blockout_slab_north",
+      "y": 270
+    },
+    "facing=east,waterlogged=true": {
+      "model": "blockouttools:block/blockout_slab_north",
+      "y": 90
+    }
+  }
+}

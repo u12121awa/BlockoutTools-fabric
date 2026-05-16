@@ -1,0 +1,9 @@
+{
+  "parent": "blockouttools:block/blockout_slab",
+  "textures": {
+    "top": "blockouttools:block/blockout_grid_top64",
+    "bottom": "blockouttools:block/blockout_grid_top64",
+    "side": "blockouttools:block/blockout_grid64",
+    "particle": "blockouttools:block/blockout_grid64"
+  }
+}

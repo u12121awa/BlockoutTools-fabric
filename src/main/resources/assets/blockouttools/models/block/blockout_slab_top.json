@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "blockouttools:block/blockout_grid_top",
+    "top": "blockouttools:block/blockout_grid_top",
+    "side": "blockouttools:block/blockout_grid"
+  }
+}

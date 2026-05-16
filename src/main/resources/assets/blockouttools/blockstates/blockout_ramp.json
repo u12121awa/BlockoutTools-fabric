@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "blockouttools:block/blockout_ramp" }
+  }
+}

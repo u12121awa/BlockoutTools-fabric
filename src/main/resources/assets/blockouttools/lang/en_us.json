@@ -1,0 +1,9 @@
+{
+  "itemGroup.blockouttools.blockout_tools": "Blockout Tools",
+  "block.blockouttools.blockout_box": "Blockout Box",
+  "block.blockouttools.blockout_slab": "Blockout Slab",
+  "block.blockouttools.blockout_vertical_slab": "Blockout Vertical Slab",
+  "block.blockouttools.blockout_railing": "Blockout Railing",
+  "block.blockouttools.blockout_ramp": "Blockout Ramp",
+  "block.blockouttools.blockout_stairs_linear": "Blockout Stairs Linear"
+}

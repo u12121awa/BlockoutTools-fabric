@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "blockouttools",
+  "version": "${version}",
+  "name": "BlockoutTools-fabric",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.maceaura.blockouttools.client.BlockoutToolsClient"
+    ],
+    "main": [
+      "me.maceaura.blockouttools.BlockoutTools"
+    ]
+  },
+  "mixins": [
+    "blockouttools.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "blockouttools:block/blockout_stairs_linear",
+  "textures": {
+    "top": "blockouttools:block/blockout_grid_top16",
+    "bottom": "blockouttools:block/blockout_grid_top16",
+    "side": "blockouttools:block/blockout_grid16",
+    "particle": "blockouttools:block/blockout_grid16"
+  },
+  "display": {
+    "gui": {
+      "rotation": [ 30, 45, 0 ],
+      "translation": [ 0, 0, 0 ],
+      "scale": [ 0.625, 0.625, 0.625 ]
+    }
+  }
+}

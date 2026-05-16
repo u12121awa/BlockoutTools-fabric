@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "blockouttools:block/blockout_box"
+    },
+    "axis=z": {
+      "model": "blockouttools:block/blockout_box",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "blockouttools:block/blockout_box",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

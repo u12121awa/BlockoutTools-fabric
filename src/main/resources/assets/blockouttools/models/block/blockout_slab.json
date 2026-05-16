@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "top": "blockouttools:block/blockout_grid_top",
+    "side": "blockouttools:block/blockout_grid",
+    "particle": "blockouttools:block/blockout_grid"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 8, 16],
+      "faces": {
+        "north": { "texture": "#side", "uv": [0, 8, 16, 16] },
+        "south": { "texture": "#side", "uv": [0, 8, 16, 16] },
+        "east":  { "texture": "#side", "uv": [0, 8, 16, 16] },
+        "west":  { "texture": "#side", "uv": [0, 8, 16, 16] },
+        "up":    { "texture": "#top",  "uv": [0, 0, 16, 16] },
+        "down":  { "texture": "#top",  "uv": [0, 0, 16, 16] }
+      }
+    }
+  ]
+}

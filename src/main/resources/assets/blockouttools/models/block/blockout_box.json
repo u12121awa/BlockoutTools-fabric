@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "blockouttools:block/blockout_grid_top",
+    "bottom": "blockouttools:block/blockout_grid_top",
+    "side": "blockouttools:block/blockout_grid"
+  }
+}
